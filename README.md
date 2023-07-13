@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 
-<h1 align="center"> < Hello World! 👋 I'm <a color="5C3099">Brunna</a> /></h1>
+<h1 align="center">< Hello World! 👋 I'm Brunna /></h1>
 <h3 align="center">A passionate FrontEnd Developer from Brazil</h3>
 <div align="center" >
     <span><img src="https://komarev.com/ghpvc/?username=brunnamattos&label=Profile%20views&color=5C3099&style=for-the-badge" alt="Profile Views" /></span>
@@ -9,16 +9,19 @@
 
 <div>
     <h3>About me:</h3>
-    <img src="6.png" width="300" align="right" style="margin: 30px 0" alt="my emote" />
+    <img src="6.png" width="500" align="right" style="margin: 30px 0" alt="my emote" />
     <span style="margin-top: 30px">I've been passionate about computers since I was 7 years old (2005) where I started to learn and use the Office and Adobe package at the NGO Rio Feliz. My career in IT began in the second half of 2019, when I started the Computer Science course at Centro Universitário Carioca. I am currently in the last period, missing only two disciplines and the TCC (final paper) that is already in progress.
         <p>Today I seek to improve myself as a front-end developer and reach places to make a difference in the world.</p>
     </span>
 </div>
 
-<img src="that-is-fine.gif" width="150" align="left" alt="my cat emote" />
+<h3>Find me around the web:</h3>
+<span></span>
+<span><a href="https://www.linkedin.com/in/brunna-mattos/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a></span>
 
 <h1></h1>
-<div>
+<img src="that-is-fine.gif" width="180" align="left" alt="my cat emote" />
+<div style="display: inline-block;">
     <h3>I'm a gamer too, so you might find me on:</h3>
     <span><img src="https://img.shields.io/badge/Epic_Games_|_kai_seri-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" alt="Epic Games" /></span>
     <span><img src="https://img.shields.io/badge/Riot_Games_|_kayseri-D32936?style=for-the-badge&logo=riot-games&logoColor=white" alt="Riot Games" /></span>
@@ -54,7 +57,7 @@
 <div>
     <p>• I love playing video games and you'll find me playing games on my <a href="https://twitch.tv/kayzeri">Twitch Channel</a> and live coding!</p>
     <p>• My first art in Photoshop was for my mother on Mother's Day when I was 8 years old, too bad I didn't know drivers existed at that time.</p>
-    <p>• It took a while, but in 2022 I started my own digital design brand on instagram as BruDesignn, you can <a href="">see it here</a></p>
+    <p>• It took a while, but in 2022 I started my own digital design brand on instagram as BruDesignn, you can <a href="https://www.instagram.com/brudesignn_/">see it here</a></p>
 </div>
 
 <h3>My specs:</h3>
