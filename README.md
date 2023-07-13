@@ -24,18 +24,6 @@
 <span><a href="http://wa.me/5521972808887/"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Contact" /></a></span>
 <span><a href="mailto:rjbrunnamattos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Contact" /></a></span>
 
-
-
-<h1></h1>
-<img src="that-is-fine.gif" width="180" align="left" alt="my cat emote" />
-<div style="display: inline-block;">
-    <h3>I'm a gamer too, so you might find me on:</h3>
-    <span><img src="https://img.shields.io/badge/Epic_Games_|_kai_seri-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" alt="Epic Games" /></span>
-    <span><img src="https://img.shields.io/badge/Riot_Games_|_kayseri-D32936?style=for-the-badge&logo=riot-games&logoColor=white" alt="Riot Games" /></span>
-    <span><img src="https://img.shields.io/badge/Steam_|_kayseri-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" /></span>
-    <span><img src="https://img.shields.io/badge/Xbox_|_LITTLE_BUUH-107C10?style=for-the-badge&logo=xbox&logoColor=white" alt="XBOX" /></span>
-</div>
-<h1></h1>
 <h3>Front End development skills:</h3>
 <span><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular" /></span>
 <span><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass" /></span>
@@ -67,9 +55,19 @@
     <p>• It took a while, but in 2022 I started my own digital design brand on instagram as BruDesignn, you can <a href="https://www.instagram.com/brudesignn_/">see it here</a></p>
 </div>
 
+<h1></h1>
+<img src="that-is-fine.gif" width="250" align="left" alt="my cat emote" />
+<div style="display: inline-block;">
+    <h3>I'm a gamer too, so you might find me on:</h3>
+    <span><img src="https://img.shields.io/badge/Epic_Games_|_kai_seri-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" alt="Epic Games" /></span>
+    <span><img src="https://img.shields.io/badge/Riot_Games_|_kayseri-D32936?style=for-the-badge&logo=riot-games&logoColor=white" alt="Riot Games" /></span>
+    <span><img src="https://img.shields.io/badge/Steam_|_kayseri-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" /></span>
+    <span><img src="https://img.shields.io/badge/Xbox_|_LITTLE_BUUH-107C10?style=for-the-badge&logo=xbox&logoColor=white" alt="XBOX" /></span>
+</div>
+
 <h3>My specs:</h3>
 <span><img src="https://img.shields.io/badge/AMD-Ryzen_7_5700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="Profile Views" /></span>
 <span><img src="https://img.shields.io/badge/AMD-Radeon RX_5600_XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="Profile Views" /></span>
-<span align="center"><img src="https://img.shields.io/badge/RAM-XPG 32gb-ED1C24.svg?style=for-the-badge" alt="ram" /></span>
+<span><img src="https://img.shields.io/badge/RAM-XPG 32gb-ED1C24.svg?style=for-the-badge" alt="ram" /></span>
 
 <h1></h1>
