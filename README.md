@@ -19,8 +19,8 @@
 <span><a href="https://www.linkedin.com/in/brunna-mattos/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a></span>
 <span><a href="https://www.twitch.tv/kayzeri/"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Channel" /></a></span>
 <span><a href="https://www.youtube.com/channel/UCXtd4vmRoaDH2PXo2fLElVg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Channel" /></a></span>
-<span><a href="https://www.linkedin.com/in/brudesignn_/"><img src="https://img.shields.io/badge/Design_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Design Instagram" /></a></span>
-<span><a href="https://www.linkedin.com/in/brunna-mattos/"><img src="https://img.shields.io/badge/Personal_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Personal Instagram" /></a></span>
+<span><a href="https://www.instagram.com/in/brudesignn_/"><img src="https://img.shields.io/badge/Design_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Design Instagram" /></a></span>
+<span><a href="https://www.instagram.com/bru.mtts/"><img src="https://img.shields.io/badge/Personal_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Personal Instagram" /></a></span>
 <span><a href="http://wa.me/5521972808887/"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Contact" /></a></span>
 <span><a href="mailto:rjbrunnamattos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Contact" /></a></span>
 
