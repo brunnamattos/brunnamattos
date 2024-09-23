@@ -10,8 +10,8 @@
 <div>
     <h3>About me:</h3>
     <img src="6.png" width="500" align="right" style="margin: 30px 0" alt="my emote" />
-    <span style="margin-top: 30px">I've been passionate about computers since I was 7 years old (2005) where I started to learn and use the Office and Adobe package at the NGO Rio Feliz. My career in IT began in the second half of 2019, when I started the Computer Science course at Centro Universitário Carioca. I am currently in the last period, missing only two disciplines and the TCC (final paper) that is already in progress.
-        <p>Today I seek to improve myself as a front-end developer and reach places to make a difference in the world.</p>
+    <span style="margin-top: 30px">My passion for computers began when I was 7 years old (2005), when I began learning and using the Office and Adobe suites at the NGO Rio Feliz. I began my career in IT in the second half of 2019, when I started the Computer Science course at Centro Universitário Carioca, from which I graduated in the first half of 2024. Today, I am a full-time front-end developer with solid experience in React and Angular, working in the market since 2020.
+        <p>My goal is to continue improving myself as a developer, taking on new challenges that allow me to grow and contribute to innovative projects. I believe that technology has the power to transform the world, and I seek to use my skills to be part of this change.</p>
     </span>
 </div>
 
@@ -25,6 +25,7 @@
 <span><a href="mailto:rjbrunnamattos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Contact" /></a></span>
 
 <h3>Front End development skills:</h3>
+<span><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" /></span>
 <span><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular" /></span>
 <span><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass" /></span>
 <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /></span>
@@ -43,7 +44,6 @@
 <span><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" /></span>
 
 <h3>I'm learning:</h3>
-<span><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" /></span>
 <span><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter" /></span>
 <span><img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="AdobeXD" /></span>
 <span><img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" alt="inDesign" /></span>
@@ -59,9 +59,9 @@
 <img src="that-is-fine.gif" width="250" align="left" alt="my cat emote" />
 <div style="display: inline-block;">
     <h3>I'm a gamer too, so you might find me on:</h3>
-    <span><img src="https://img.shields.io/badge/Epic_Games_|_kai_seri-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" alt="Epic Games" /></span>
-    <span><img src="https://img.shields.io/badge/Riot_Games_|_kayseri-D32936?style=for-the-badge&logo=riot-games&logoColor=white" alt="Riot Games" /></span>
     <span><img src="https://img.shields.io/badge/Steam_|_kayseri-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" /></span>
+    <span><img src="https://img.shields.io/badge/Riot_Games_|_kayseri-D32936?style=for-the-badge&logo=riot-games&logoColor=white" alt="Riot Games" /></span>
+    <span><img src="https://img.shields.io/badge/Epic_Games_|_kai_seri-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" alt="Epic Games" /></span>
     <span><img src="https://img.shields.io/badge/Xbox_|_LITTLE_BUUH-107C10?style=for-the-badge&logo=xbox&logoColor=white" alt="XBOX" /></span>
 </div>
 
