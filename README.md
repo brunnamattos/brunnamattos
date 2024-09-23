@@ -59,7 +59,7 @@
 <img src="that-is-fine.gif" width="250" align="left" alt="my cat emote" />
 <div style="display: inline-block;">
     <h3>I'm a gamer too, so you might find me on:</h3>
-    <span><img src="https://img.shields.io/badge/Steam_|_kayseri-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" /></span>
+    <span><a href="https://steamcommunity.com/id/kay-seri/"><img src="https://img.shields.io/badge/Steam_|_kayseri-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" /></a></span>
     <span><img src="https://img.shields.io/badge/Riot_Games_|_kayseri-D32936?style=for-the-badge&logo=riot-games&logoColor=white" alt="Riot Games" /></span>
     <span><img src="https://img.shields.io/badge/Epic_Games_|_kai_seri-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" alt="Epic Games" /></span>
     <span><img src="https://img.shields.io/badge/Xbox_|_LITTLE_BUUH-107C10?style=for-the-badge&logo=xbox&logoColor=white" alt="XBOX" /></span>
